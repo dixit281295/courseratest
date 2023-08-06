@@ -1,0 +1,33 @@
+.group {
+  height: 62px;
+  width: 369px;
+}
+
+.group .div-wrapper {
+  height: 62px;
+}
+
+.group .overlap-group-wrapper {
+  height: 62px;
+  width: 371px;
+}
+
+.group .overlap-group {
+  background-color: #efefff;
+  border-radius: 8px;
+  height: 62px;
+  position: relative;
+  width: 369px;
+}
+
+.group .enter-email-or-user {
+  color: #a7a2ff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
